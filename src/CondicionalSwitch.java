@@ -4,7 +4,6 @@ public class CondicionalSwitch {
 
         switch (estadoCivil){
             case 'C' ,'c':
-
                 System.out.println("Casado");
                 break;
             case 'D':
